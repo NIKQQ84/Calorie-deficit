@@ -1,0 +1,6 @@
+{
+  "name": "Food Calorie Scanner",
+  "description": "Scan your food using your camera to get a breakdown of calories, proteins, fats, carbs, and healthy eating insights powered by Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
